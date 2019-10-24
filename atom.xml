@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>容若</title>
+  
+  <subtitle>自是人生长恨水长东</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://wuligao.github.io/"/>
+  <updated>2019-10-24T00:53:10.791Z</updated>
+  <id>https://wuligao.github.io/</id>
+  
+  <author>
+    <name>容若</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>board</title>
+    <link href="https://wuligao.github.io/2019/10/24/board/"/>
+    <id>https://wuligao.github.io/2019/10/24/board/</id>
+    <published>2019-10-24T00:53:10.000Z</published>
+    <updated>2019-10-24T00:53:10.791Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>paper</title>
+    <link href="https://wuligao.github.io/2019/10/24/paper/"/>
+    <id>https://wuligao.github.io/2019/10/24/paper/</id>
+    <published>2019-10-24T00:52:35.000Z</published>
+    <updated>2019-10-24T00:52:35.259Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>吴仪庸</title>
+    <link href="https://wuligao.github.io/2019/10/23/wlg/"/>
+    <id>https://wuligao.github.io/2019/10/23/wlg/</id>
+    <published>2019-10-23T04:11:46.000Z</published>
+    <updated>2019-10-24T02:35:06.753Z</updated>
+    
+    <content type="html"><![CDATA[<p>​        <b>应是长情深入骨，便是相离也相思。</b></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;​        &lt;b&gt;应是长情深入骨，便是相离也相思。&lt;/b&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="工作" scheme="https://wuligao.github.io/categories/%E5%B7%A5%E4%BD%9C/"/>
+    
+    
+      <category term="难受" scheme="https://wuligao.github.io/tags/%E9%9A%BE%E5%8F%97/"/>
+    
+  </entry>
+  
+</feed>
